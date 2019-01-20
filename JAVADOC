@@ -1,0 +1,9 @@
+The Java Turtle Package Documentation was generated with the javadoc tool:
+
+javadoc -d documentation\
+	-breakiterator\
+	-author\
+	-version\
+	-link http://java.sun.com/j2se/1.4/docs/api\
+	-sourcepath .\
+	ch.aplu.turtle
